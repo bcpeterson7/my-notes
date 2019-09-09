@@ -25,6 +25,6 @@ If you are new to ATOM, packages are like extensions in Firefox, or APT for Debi
 - remote-ftp - FTP/FTPS/SFTP
 - tree-view-scope-lines - more visual grepping in the tree-view
 
-## Packages to Avoid (CPU/Mem leeches)
+## Packages to Avoid (CPU/Memory leeches)
 These are great ideas, but their current versions have lagged out my computers and need some reworking before they would improve my coding experiences.
 - minimap-lens (v0.2.0) - like a magnifying glass, it creates a popup when mousing-over the minimap. The popup shows your code at that location. In actuality this causes the editor to stop everything (even the cursor stops blinking) for a few seconds. Mildly infuriating after a while if your cursor accidentally goes over the minimap, or any time you want to scroll down with the vertical scrollbar.
